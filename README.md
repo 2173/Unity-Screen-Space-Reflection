@@ -1,6 +1,7 @@
-![smoothness1](scene1.png)
-![smoothness0.5](scene2.png)
-![smoothness0.3](scene3.png)
+![](demo0.png)
+![](demo1.png)
+![](demo2.png)
+![](demo3.png)
 # Stochastic Screen Space Reflection
 ## Why?
 * Although we do have Unity's official Postprocessing Stack V1 and V2, there are still many defects inside. Like the unperfact roughness present at V1 package and the fallback(to reflection probe) leak in V2. So, by implementing the Stochastic Screen Space Reflection algorithm published by FrostByte(SIGGRAPH 2015).
